@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570524202158",
+    "project_id": "pushmessage-51f68",
+    "storage_bucket": "pushmessage-51f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570524202158:android:ff6bba095cb9df34e1293f",
+        "android_client_info": {
+          "package_name": "com.Emoghadam.pushmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570524202158-q7him8om5gl9dutun53dgc2dug285i9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI29mdDb6IRI8vlZ6yfob30JbGVPpugB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570524202158-q7him8om5gl9dutun53dgc2dug285i9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
